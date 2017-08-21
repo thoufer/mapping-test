@@ -1,0 +1,30 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.header,
+.footer {
+  padding-left: 15px;
+  padding-right 15px;
+}
+
+.header {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.footer {
+  margin-top: 20px;
+  padding-top: 19px;
+  text-align: center;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+#geom-mw-wrap {
+  display: block;
+  margin: auto;
+  width: 90%;
+}
